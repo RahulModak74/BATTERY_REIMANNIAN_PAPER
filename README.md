@@ -18,3 +18,7 @@ This is Tier 2 theoretical work because:
     Formal proofs establishing properties
 
 
+    More precisely
+    “We establish that the Riemannian geometric machinery traditionally associated with General Relativity—particularly Synge’s world function—arises universally on physics-constrained state manifolds, and we provide a general Bayesian computational framework for constructing and using these structures beyond spacetime.”
+
+
