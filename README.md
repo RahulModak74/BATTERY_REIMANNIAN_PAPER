@@ -28,7 +28,7 @@ We prove that Synge's world function—a fundamental construct in General Relati
 
 LORENTZIAN EXTENSIONS..
 
-pdf explains early success with multiple TO DOs..
+pdf lorentzian_extension.pdf explains early success with multiple TO DOs..
 
 Here is what we are attempting in Lorentzian sector..
 Key Contributions
