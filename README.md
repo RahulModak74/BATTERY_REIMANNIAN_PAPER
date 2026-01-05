@@ -45,4 +45,8 @@ Computational Acceleration – Once trained, the model evaluates relativistic ge
 
 
 
-LORE
+KERR BLACKHOLE
+
+Also succesfuuly demonstated application to extremely complex Kerr rotating black holes.. only 5 space times so far!!
+
+Adnd we are able to calculate both VanVleck and Synge function.. Pl read kerr* pdfs
