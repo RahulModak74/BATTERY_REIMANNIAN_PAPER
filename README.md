@@ -134,7 +134,7 @@ PS: You may get error AttributeError: 'float' object has no attribute 'item'
 
 This is becasue training is NON deterministic.
 
-In which case u can use the trained pth model and run the inference using run_kerr_inf.py
+In which case u can use the trained pth model and run the inference using load_pretrained_kerr.py
 
 **What this means:** Geodesics diverge (Δ > 1), reliable prediction (low σ), computed in 10 minutes.
 
