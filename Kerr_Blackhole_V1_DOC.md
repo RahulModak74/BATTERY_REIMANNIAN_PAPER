@@ -273,8 +273,8 @@ MIT License - Copyright (c) 2025 Rahul Modak & Rahul Walawalkar
 
 ## Contact
 
-**Rahul Modak** - Founder & CEO, Bayesian Cybersecurity  
-**Dr. Rahul Walawalkar** - Former IESA President
+**Rahul Modak** - Founder, Bayesian Cybersecurity  
+**Dr. Rahul Walawalkar** - Co Founder, Bayesian Cybersecurity 
 
 GitHub: https://github.com/RahulModak74  
 Paper: https://github.com/RahulModak74/BATTERY_REIMANNIAN_PAPER
