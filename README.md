@@ -227,7 +227,6 @@ Founder, Bayesian Cybersecurity Pvt Ltd
 
 **Dr. Rahul Walawalkar**  
 Co-Founder, Bayesian Cybersecurity Pvt Ltd
-Carnegie Mellon PhD, Battery & energy systems expert
 
 ---
 
