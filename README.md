@@ -60,7 +60,7 @@ We prove this mathematically and demonstrate it computationally across three max
 
 ### 💻 Working Code
 
-7. **`kerr_blackhole_vae_v1.py`**  
+7. **`kerr_blackhole_vae_v1_PATCHED.py`**  
    Production implementation for Kerr rotating black holes
 
 8. **`Kerr_Blackhole_V1_DOC.md`**  
