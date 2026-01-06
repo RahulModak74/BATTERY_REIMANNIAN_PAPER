@@ -75,12 +75,12 @@ We prove this mathematically and demonstrate it computationally across three max
 
 ```bash
 pip install torch numpy pyro-ppl scipy
-python3 kerr_blackhole_vae_v1.py
+python3 kerr_blackhole_vae_v1_PATCHED.py
 ```
 
 **Output:**
 ```
-python3 kerr_blackhole_vae_v1.py 
+python3 kerr_blackhole_vae_v1_PATCHED.py 
 KERR BLACK HOLE - LORENTZIAN VAE
 Modak-Walawalkar Framework Extension
 ============================================================
@@ -130,15 +130,13 @@ Van Vleck: Δ = 9.367263e+00
 Uncertainty: σ = 0.326733
 Synge: Ω = 10.883921 (spacelike)
 ```
-PS: You may get error AttributeError: 'float' object has no attribute 'item'
 
-This is becasue training is NON deterministic.
+training is NON deterministic.
 
-In which case u can use the trained pth model and run the inference using load_pretrained_kerr.py
+U can use the trained pth model and run the inference using load_pretrained_kerr.py
 
 Directly run load_pretrained_kerr.py which uses the correct pth file  (in this repo itself)
 
-Or try the PATCHED file..kerr_blackhole_vae_v1_PATCHED.py
 
 **What this means:** Geodesics diverge (Δ > 1), reliable prediction (low σ), computed in 10 minutes.
 
