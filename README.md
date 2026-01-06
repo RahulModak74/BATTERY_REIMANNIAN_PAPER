@@ -136,6 +136,8 @@ This is becasue training is NON deterministic.
 
 In which case u can use the trained pth model and run the inference using load_pretrained_kerr.py
 
+Directly run load_pretrained_kerr.py which uses the correct pth file  (in this repo itself)
+
 Or try the PATCHED file..kerr_blackhole_vae_v1_PATCHED.py
 
 **What this means:** Geodesics diverge (Δ > 1), reliable prediction (low σ), computed in 10 minutes.
