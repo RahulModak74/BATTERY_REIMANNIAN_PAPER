@@ -38,13 +38,17 @@ We prove this mathematically and demonstrate it computationally across three max
 
 ### 📄 Core Theory
 
-1. **`modak_walawalkar_theory_paper.pdf`**  
+1. **techrxiv_modak_walawalkar_FINAL_v3.pdf**  
    Main theoretical paper: Einstein's GR ⊂ M-W Framework
 
 2. **`IEEE_Paper_MW.pdf`**  
-   Formal IEEE submission with proofs
+   Formal IEEE submission with proofs (Riemannian Only)
 
-3. **`appendix_a_computational_methods.pdf`**  
+   ** Nature_MW_Framework.pdf**
+   
+    Both Riemannian and Lorentzian
+
+4. **`appendix_a_computational_methods.pdf`**  
    41 historical methods unified under Bayesian framework
 
 ### 🚀 Lorentzian Extensions
