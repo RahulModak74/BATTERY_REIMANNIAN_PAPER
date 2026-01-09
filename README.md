@@ -6,7 +6,7 @@ techrxiv_modak_walawalkar_FINAL_v3.pdf
 
 How to test:
 
-Pl use these 2 files are better reproducability
+Pl use these 2 files are better reproducability (_PATCHED.py also is correct but this is simpler)
 
 
 
