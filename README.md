@@ -3,6 +3,10 @@ Full Detailed Paper:
 
 techrxiv_modak_walawalkar_FINAL_v3.pdf
 
+Nature Submitted File:
+
+Nature_MW_Framework.pdf
+
 
 How to test:
 
