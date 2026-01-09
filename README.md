@@ -1,4 +1,7 @@
 
+Full Detailed Paper:
+
+techrxiv_modak_walawalkar_FINAL_v3.pdf
 
 
 How to test:
