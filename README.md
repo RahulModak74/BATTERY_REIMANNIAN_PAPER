@@ -10,13 +10,18 @@ Pl use these 2 files are better reproducability
 1. Generate Data:
 
    python3 kerr_1_generate_data.py --samples 10000 --seed 42
-
-3. Test it:
    
 
+3. Test it: (NON DETERMINISTIC)
+   
+
+
 python3 kerr_2_train_and_test_pyro.py --data kerr_geodesics.npy
+
 ======================================================================
+
 KERR VAE TRAINING & TESTING (WITH FIXED DATA)
+
 ======================================================================
 
 Loading data from: kerr_geodesics.npy
